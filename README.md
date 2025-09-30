@@ -1,22 +1,22 @@
 # les4repo
-Oefening voor markdown les 4 skill mediacollege
+Opdracht Markdown Les 4 SKILL Mediacollege Amsterdam, Mazen Arafa.
 
 ##
 
-nog kleiner
+Klein
 
 ###
 
-**NOG KLEINER**
+**Nog kleiner**
 
 ######
 
-can we get much smaller
+Microscopisch
 
-<mazenarafa0105@gmail.com>
+Mijn e-mail -> <mazenarafa0105@gmail.com>
 
-(https://www.youtube.com/)
+Link naar YouTube -> (https://www.youtube.com/)
 
-Go watch some YouTube as a break.
+Code voor een recente PROG opdracht.
 
-![Random code van een andere les:](images/randomcode.png)
+!(images/randomcode.png)

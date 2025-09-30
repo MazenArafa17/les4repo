@@ -1,10 +1,19 @@
 # les4repo
 Oefening voor markdown les 4 skill mediacollege
+
+
 ##
-lmao
+
+nog kleiner
+
 ###
-lmao x2
+
+NOG KLEINER
+
 ####
-lmao x3
+
+can we get much smaller
+
 #####
-lmao x4 or was it 5?
+
+so small
